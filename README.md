@@ -1,2 +1,4 @@
 # AI-and-ML
-Learning the basic concepts of AI
+AI-ML codes
+ 
+# Basic Concepts of AI
