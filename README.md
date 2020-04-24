@@ -79,8 +79,9 @@
 		<li>
 			<a href="https://github.com/tusharchoudhary0003/AI/tree/master/Neural%20networks%20with%20feedforwarding%20(FFNNS)">NNFF (Neural Network with Feed Forward)</a>
 		</li>
+		<br>
 		<p>
-			<b>Abstraction of the problem:</b><br>
+			<b>Abstraction of the problem:</b>  <br>
 			Given a point (x_coordinate, y_coordinate) in the cartesian plane, inside the rectangle (0,0) and (20, 12), classify if the point is inside the circle with center in (10,8) and radius 3.
 		</p>
 		<p>
