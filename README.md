@@ -1,12 +1,12 @@
-<h3><b>Artificial intelligence repository</b>
+<h3><b>Artificial intelligence repository</b></h3>
 	<br>Content</br>
 	<hr>
 		<br>
 		<li><a href="https://github.com/tusharchoudhary0003/AI/tree/master/Bibliography">Biobliography Folder</a>
 		</li>
 		<p>
-			<h3>First things first, the bibliography contains all the books that I consider are the real basis
-			of what the code is about. And in general, what AI is about.</h3>
+			First things first, the bibliography contains all the books that I consider are the real basis
+			of what the code is about. And in general, what AI is about.
 		</p>
 	</hr>
 	<hr>
